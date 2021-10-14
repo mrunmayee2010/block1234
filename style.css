@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background: linear-gradient(#42e0f5 0%, #f542d1 100%)
+}
+#imgbn{
+    height: 400px;
+    width: 400px;
+}
